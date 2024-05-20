@@ -1,0 +1,117 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+html,
+body {
+    height: 100%;
+}
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+.content {
+    flex: 1 0 auto;
+}
+footer {
+    flex: 0 0 auto;
+}
+
+body{
+    background-image: url("../img/library.webp");
+    font-family: "Inter Semi Bold", serif;
+    color: #b5b8bd;
+}
+
+a{
+    text-decoration: none;
+}
+.navbar-brand img {
+    width: 50px;
+}
+
+#navbarNav{
+    justify-content: space-between;
+}
+.navbar-expand-lg .navbar-nav .nav-link{
+    padding-right: 0;
+}
+.showBook{
+    background: linear-gradient(207deg, rgba(196,194,181,0.989233193277311) 35%, rgba(182,130,6,1) 100%);
+    border-radius: 20px;
+}
+.show_title{
+    font-size: 5em;
+    font-family: "Inter Semi Bold", serif;
+    font-weight: bolder;
+    color: #c3aa5b;
+    text-shadow: #3e1f00 1px 1px 1px;
+}
+.book_info{
+    text-align: center;
+}
+.show_author{
+    display: flex;
+    justify-content: center;
+}
+
+.card-buttons{
+    display: flex;
+    justify-content: center;
+}
+.card-button{
+    margin: 1em;
+}
+.container-cards{
+    display: flex;
+    justify-content: center;
+}
+.card-body {
+    overflow: hidden;
+    background: rgb(196,194,181);
+    background: linear-gradient(22deg, rgba(196,194,181,0.989233193277311) 45%, rgba(182,130,6,1) 100%);
+}
+.card-title,
+.card-text {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.card-title{
+    color: #3e1f00;
+    font-family: "Inter Semi Bold", serif;
+}
+.card-text{
+    color: #270347;
+    font-style: italic;
+}
+.card-title:hover,
+.card-text:hover {
+    overflow: visible;
+    white-space: normal;
+}
+.accordion-body{
+    background: rgb(196,194,181);
+    background: linear-gradient(207deg, rgba(196,194,181,0.989233193277311) 35%, rgba(182,130,6,1) 100%);
+}
+.accordion-button{
+    background-image: url("../img/wood.jpeg");
+    padding: 0.5em;
+    font-size: 0.7em;
+    color: #b5b8bd;
+}
+.carousel-text {
+    font-size: large;
+    text-shadow: #2c2a2a 1px 1px;
+    font-style: italic;
+}
+
+footer{
+    background: black;
+}
+.footer-text{
+    margin: auto auto;
+    color: darkgray;
+}
+

@@ -1,0 +1,80 @@
+.drop-list{
+    margin-left: 1em;
+    margin-right: 1em;
+}
+.dropdown-toggle{
+    margin-left: 0;
+    padding-left: 2px;
+}
+.dropdown-menu>div>a{
+  padding-top: 0;
+    padding-bottom: 0;
+    color: #dfe3e8;
+}
+.dropdown-menu>div>a:hover{
+    color: darkgray;
+}
+button.btn.dropdown-toggle {
+    border: none;
+}
+.form-control::placeholder {
+    color: rgba(169, 169, 169, 0.45);
+}
+.btn.btn-outline-success,
+.btn.btn-outline-primary{
+    color: #b5b8bd;
+    border-color: #b5b8bd;
+}
+.btn.btn-outline-success:hover,
+.btn.btn-outline-primary:hover{
+    background-color: #b5b8bd;
+    color: aliceblue;
+}
+.modal-header{
+    background-image: url("../img/wood.jpeg");
+    color: #dfe3e8;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    font-family: "Inter Semi Bold", serif;
+    font-weight: bold;
+}
+.modal-body{
+    padding: 0;
+}
+#form{
+    background-image: url("../img/papirus.jpg");
+    padding: 0.5em 1.5em;
+}
+
+.input-div{
+    display: flex;
+    justify-content: space-between;
+    margin: 1em;
+    font-family: "Inter Semi Bold", serif;
+    font-size: 1.3em;
+}
+.input-div label{
+    color: #dfe3e8;
+    font-size: 1.3em;
+    font-style: italic;
+}
+.input-div input{
+    border-radius: 5px;
+    background: rgba(244, 247, 251, 0.11);
+}
+.modal-footer{
+    background-image: url("../img/wood.jpeg");
+    padding: 0.5em;
+}
+.btn.btn-primary{
+    background: #dfe3e8;
+    border-color: #2c2a2a;
+    color: #2c2a2a;
+}
+.btn.btn-primary:hover,
+.btn.btn-secondary:hover{
+    background-color: rgba(169, 169, 169, 0.45);
+    color: white;
+}
+

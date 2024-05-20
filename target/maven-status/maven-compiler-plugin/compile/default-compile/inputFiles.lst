@@ -1,0 +1,11 @@
+/home/alexsanya001/Projects/Library/src/main/java/spring/library/dao/BookMapper.java
+/home/alexsanya001/Projects/Library/src/main/java/spring/library/dao/GenreMapper.java
+/home/alexsanya001/Projects/Library/src/main/java/spring/library/dao/AuthorDAO.java
+/home/alexsanya001/Projects/Library/src/main/java/spring/library/dao/BookDAO.java
+/home/alexsanya001/Projects/Library/src/main/java/spring/library/controllers/MainController.java
+/home/alexsanya001/Projects/Library/src/main/java/spring/library/models/Book.java
+/home/alexsanya001/Projects/Library/src/main/java/spring/library/dao/AuthorMapper.java
+/home/alexsanya001/Projects/Library/src/main/java/spring/library/dao/GenreDAO.java
+/home/alexsanya001/Projects/Library/src/main/java/spring/library/controllers/BookController.java
+/home/alexsanya001/Projects/Library/src/main/java/spring/library/config/MyDispatcherServletInitializer.java
+/home/alexsanya001/Projects/Library/src/main/java/spring/library/config/SpringConfig.java

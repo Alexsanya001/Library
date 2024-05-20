@@ -1,0 +1,11 @@
+spring/library/dao/AuthorDAO.class
+spring/library/dao/GenreMapper.class
+spring/library/controllers/BookController.class
+spring/library/config/MyDispatcherServletInitializer.class
+spring/library/dao/BookMapper.class
+spring/library/dao/AuthorMapper.class
+spring/library/dao/BookDAO.class
+spring/library/dao/GenreDAO.class
+spring/library/controllers/MainController.class
+spring/library/config/SpringConfig.class
+spring/library/models/Book.class
