@@ -139,7 +139,7 @@
                         <div class="col-lg-3 col-md-6 mt-4" th:each="book:${genreBooks}">
                             <a th:href="@{/books/{id} (id=${book.getId()})}">
                                 <div class="card">
-                                    <img src="/res/img/open-book.jpeg" class="card-img-top" alt="laptop">
+                                    <img th:src="@{../../res/img/open-book.jpeg}" class="card-img-top" alt="laptop">
                                     <div class="card-body">
                                         <h5 class="card-title" th:text="${book.getTitle()}">book</h5>
                                         <p class="card-text" th:text="${book.getAuthor()+' '+book.getGenre()}">info</p>

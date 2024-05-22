@@ -10,40 +10,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67fb983e-43b7-42b9-ac36-1e040df248b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/spring/library/controllers/MainController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Library.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new-file.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/books/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/books/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/res/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/res/styles/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/books/aGenre/genre.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/books/aGenre/genre.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/books/allBooks.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/books/allBooks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/books/anAuthor/author.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/books/anAuthor/author.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/books/authors.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/books/authors.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/books/genres.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/books/genres.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/books/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/books/search.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/Library.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/Library.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Library/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Library/WEB-INF/classes/spring/library/config/MyDispatcherServletInitializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Library/WEB-INF/classes/spring/library/config/MyDispatcherServletInitializer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Library/WEB-INF/classes/spring/library/config/SpringConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Library/WEB-INF/classes/spring/library/config/SpringConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Library/WEB-INF/classes/spring/library/controllers/BookController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Library/WEB-INF/classes/spring/library/controllers/BookController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Library/WEB-INF/classes/spring/library/dao/AuthorDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Library/WEB-INF/classes/spring/library/dao/AuthorDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Library/WEB-INF/classes/spring/library/dao/AuthorMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Library/WEB-INF/classes/spring/library/dao/AuthorMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Library/WEB-INF/classes/spring/library/dao/BookDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Library/WEB-INF/classes/spring/library/dao/BookDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Library/WEB-INF/classes/spring/library/dao/BookMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Library/WEB-INF/classes/spring/library/dao/BookMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Library/WEB-INF/classes/spring/library/dao/GenreDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Library/WEB-INF/classes/spring/library/dao/GenreDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Library/WEB-INF/classes/spring/library/dao/GenreMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Library/WEB-INF/classes/spring/library/dao/GenreMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Library/WEB-INF/classes/spring/library/models/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Library/WEB-INF/classes/spring/library/models/Book.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Library/WEB-INF/classes/styles/nav-bar.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Library/WEB-INF/views/books/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/Library/WEB-INF/views/books/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Library/res/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/Library/res/styles/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spring/library/config/MyDispatcherServletInitializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spring/library/config/MyDispatcherServletInitializer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spring/library/config/SpringConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spring/library/config/SpringConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spring/library/controllers/BookController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spring/library/controllers/BookController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spring/library/dao/AuthorDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spring/library/dao/AuthorDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spring/library/dao/AuthorMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spring/library/dao/AuthorMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spring/library/dao/BookDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spring/library/dao/BookDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spring/library/dao/BookMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spring/library/dao/BookMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spring/library/dao/GenreDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spring/library/dao/GenreDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spring/library/dao/GenreMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spring/library/dao/GenreMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spring/library/models/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spring/library/models/Book.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/styles/nav-bar.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Library/WEB-INF/views/books/aGenre/genre.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/Library/WEB-INF/views/books/aGenre/genre.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Library/WEB-INF/views/books/allBooks.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/Library/WEB-INF/views/books/allBooks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Library/WEB-INF/views/books/anAuthor/author.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/Library/WEB-INF/views/books/anAuthor/author.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Library/WEB-INF/views/books/authors.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/Library/WEB-INF/views/books/authors.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Library/WEB-INF/views/books/genres.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/Library/WEB-INF/views/books/genres.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Library/WEB-INF/views/books/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/Library/WEB-INF/views/books/search.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,27 +66,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Maven.Library [clean].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "Tomcat Server.Tomcat9.executor": "Run",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/alexsanya001/Projects/Library",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.Library [clean].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Tomcat Server.Tomcat9.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/alexsanya001/Projects/Library&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "postgresql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Tomcat9" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat9" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="11" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
@@ -224,6 +204,9 @@
       <workItem from="1716117064293" duration="3915000" />
       <workItem from="1716200806278" duration="1246000" />
       <workItem from="1716204592902" duration="348000" />
+      <workItem from="1716207247942" duration="15000" />
+      <workItem from="1716378381877" duration="302000" />
+      <workItem from="1716379379530" duration="929000" />
     </task>
     <servers />
   </component>
